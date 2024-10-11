@@ -1,5 +1,7 @@
-## Hi there 👋. I'm Kevin
-- 
+## Hi! I'm Kevin 👋
+- 🇦🇺 I am a computer science/finance student at UNSW
+- I am currently working on a full-stack web-app that helps student create accountability buddies
+- ❤️ I am passionate about web and mobile development
 
 <!--
 **KevinLin1803/KevinLin1803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
