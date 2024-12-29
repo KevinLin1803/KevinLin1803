@@ -1,6 +1,6 @@
 ## Hi! I'm Kevin 👋
-- 🇦🇺 I am a computer science/finance student at UNSW
-- 🖋️ I am currently working on a full-stack web-app that helps student create accountability buddies
+- I am a computer science/finance student at UNSW
+- 🖋️ I am currently working on a tennis hawkeye project that analyses player and shot speed
 - ❤️ I am passionate about web and mobile development
 
 <!--
