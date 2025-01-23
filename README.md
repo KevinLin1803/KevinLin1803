@@ -1,6 +1,8 @@
 ## Hi, I'm Kevin 👋
 ✨ Computer science/Commerce student at UNSW
+
 ❤️ I enjoy coding web-apps and learning about AI
+
 🖋️ I am currently working on a tennis hawkeye project that analyses player and shot speed
 
 ## 💻 Tech Stack:
