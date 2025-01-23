@@ -1,7 +1,7 @@
-## Hi! I'm Kevin 👋
-- I am a computer science/finance student at UNSW
+## Hi, I'm Kevin 👋
+- Computer science/Commerce student at UNSW
+- ❤️ I enjoy coding web-apps and learning about AI
 - 🖋️ I am currently working on a tennis hawkeye project that analyses player and shot speed
-- ❤️ I am passionate about web and mobile development
 
 <!--
 **KevinLin1803/KevinLin1803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
